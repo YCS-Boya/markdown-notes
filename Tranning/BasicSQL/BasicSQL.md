@@ -615,14 +615,10 @@ EXEC dbo.UpdateCostBasedOnTime
     @endTime = @DynamicEndTime;
 ```
 
+左鍵雙擊`作業活動監視器`
 ![](https://cdn.jsdelivr.net/gh/YCS-Boya/image-repo@main/Training/Basic%20SQL/2025_11_09_7pm377.png)
 ![](https://cdn.jsdelivr.net/gh/YCS-Boya/image-repo@main/Training/Basic%20SQL/2025_11_09_7pm447.png)
 ![](https://cdn.jsdelivr.net/gh/YCS-Boya/image-repo@main/Training/Basic%20SQL/2025_11_09_7pm17.png)
-
-
-
-左鍵雙擊`作業活動監視器`
-
 ![](https://cdn.jsdelivr.net/gh/YCS-Boya/image-repo@main/Training/Basic%20SQL/2025_11_09_7pm117.png)
 ![](https://cdn.jsdelivr.net/gh/YCS-Boya/image-repo@main/Training/Basic%20SQL/2025_11_09_7pm197.png)
 
