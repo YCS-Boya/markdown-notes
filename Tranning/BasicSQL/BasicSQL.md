@@ -616,6 +616,7 @@ EXEC dbo.UpdateCostBasedOnTime
 ```
 
 左鍵雙擊`作業活動監視器`
+
 ![](https://cdn.jsdelivr.net/gh/YCS-Boya/image-repo@main/Training/Basic%20SQL/2025_11_09_7pm377.png)
 ![](https://cdn.jsdelivr.net/gh/YCS-Boya/image-repo@main/Training/Basic%20SQL/2025_11_09_7pm447.png)
 ![](https://cdn.jsdelivr.net/gh/YCS-Boya/image-repo@main/Training/Basic%20SQL/2025_11_09_7pm17.png)
